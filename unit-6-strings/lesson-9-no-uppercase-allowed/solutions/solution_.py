@@ -1,3 +1,4 @@
+# Solution using while loop and break
 def neutralize_uppercase(stringy):
     count = 0
     while count < len(stringy):
