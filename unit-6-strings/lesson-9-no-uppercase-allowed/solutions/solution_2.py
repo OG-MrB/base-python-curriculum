@@ -4,5 +4,5 @@ def neutralize_uppercase(stringy):
     while count < len(stringy):
         if stringy[count] == stringy[count].upper():
             return ""
-    count += 1
+        count += 1
     return stringy
